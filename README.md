@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rushikesh Kadam (Github:@Rushkad)
-- 👀 I’m interested in Pyhton | Machine Learning |Data Analysis
+- 👀 I’m interested in Python | Machine Learning |Data Analysis
 - 🌱 I’m currently in Final year of Graduation
 - 💞️ I’m looking to collaborate with one of the best IT firms.
 - 📫 How to reach me - rushikadam10rk@gmail.com
